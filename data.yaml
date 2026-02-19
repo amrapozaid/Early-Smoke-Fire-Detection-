@@ -1,6 +1,6 @@
-train: ../code2/firesmokeyolov8/train/images
-val: ../code2/firesmokeyolov8/valid/images
-test: ../code2/firesmokeyolov8/test/images
+train: ../Your-firesmokeDS/train/images
+val: ../Your-firesmokeDS/valid/images
+test: ../Your-firesmokeDS/test/images
 
 nc: 2
 names: ['fire', 'smoke']

@@ -92,8 +92,8 @@ The trained model weights for the ViT +YOLOv8  Hybrid Fire/Smoke Detection Model
 ------------------------------------------------------------
 Citation
 ------------------------------------------------------------
-Amr Abozeid and Rayan Alanazi . IAn Intelligent Approach for Early Smoke/Fire Detection 
-Using Vision Sensors in Smart Cities. scientific reports (under review).
+Amr Abozeid and Rayan Alanazi, An Intelligent Approach for Early Smoke/Fire Detection 
+Using Vision Sensors in Smart Cities, Scientific Reports (under review).
 
 ------------------------------------------------------------
 End of README

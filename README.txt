@@ -79,6 +79,7 @@ You can also train/test the model using the following public Fire and Smoke data
 
 1-Kaggle – DataCluster Labs Fire and Smoke Dataset
 https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset
+https://universe.roboflow.com/datacluster-labs-agryi/fire-and-smoke-dataset-umfsp
 
 2-Roboflow Universe – Fire and Smoke Detection (Hiwia) v2
 https://universe.roboflow.com/middle-east-tech-university/fire-and-smoke-detection-hiwia/dataset/2
@@ -96,4 +97,5 @@ Using Vision Sensors in Smart Cities. scientific reports (under review).
 
 ------------------------------------------------------------
 End of README
+
 ------------------------------------------------------------

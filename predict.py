@@ -1,6 +1,6 @@
 # predict.py
 # ------------------------------------------------------------
-# Inference for ViT_YOLOv8_Hybrid (raw tensor output + NMS)
+# Inference for ViT_YOLOv8_Hybrid 
 # ------------------------------------------------------------
 
 import os
@@ -188,4 +188,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
